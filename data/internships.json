@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer Intern",
+    "company": "BrightPixel Labs",
+    "domain": "Web Development",
+    "location": "Remote",
+    "type": "Full-time",
+    "stipend": "₹10,000/month",
+    "description": "Build responsive user interfaces using HTML, CSS, and JavaScript.",
+    "initials": "BP",
+    "applyUrl": "https://example.com/apply/frontend"
+  },
+  {
+    "id": 2,
+    "title": "Python Developer Intern",
+    "company": "CodeNest Solutions",
+    "domain": "Software Development",
+    "location": "Hyderabad",
+    "type": "Internship",
+    "stipend": "₹8,000/month",
+    "description": "Assist with Python scripts, backend features, and software testing.",
+    "initials": "CN",
+    "applyUrl": "https://example.com/apply/python"
+  },
+  {
+    "id": 3,
+    "title": "Data Analytics Intern",
+    "company": "InsightWorks",
+    "domain": "Data Analytics",
+    "location": "Remote",
+    "type": "Part-time",
+    "stipend": "₹7,000/month",
+    "description": "Analyze datasets and prepare reports using spreadsheets and Python.",
+    "initials": "IW",
+    "applyUrl": "https://example.com/apply/analytics"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design Intern",
+    "company": "PixelCraft Studio",
+    "domain": "UI/UX Design",
+    "location": "Bengaluru",
+    "type": "Internship",
+    "stipend": "₹9,000/month",
+    "description": "Create user-friendly layouts, wireframes, and design prototypes.",
+    "initials": "PC",
+    "applyUrl": "https://example.com/apply/design"
+  },
+  {
+    "id": 5,
+    "title": "Java Developer Intern",
+    "company": "DevBridge Technologies",
+    "domain": "Software Development",
+    "location": "Hyderabad",
+    "type": "Full-time",
+    "stipend": "₹12,000/month",
+    "description": "Practice object-oriented programming and develop Java applications.",
+    "initials": "DB",
+    "applyUrl": "https://example.com/apply/java"
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Intern",
+    "company": "GrowthSpring Media",
+    "domain": "Marketing",
+    "location": "Remote",
+    "type": "Part-time",
+    "stipend": "₹6,000/month",
+    "description": "Support content planning, campaign analysis, and social media projects.",
+    "initials": "GS",
+    "applyUrl": "https://example.com/apply/marketing"
+  }
+]
