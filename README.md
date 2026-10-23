@@ -95,8 +95,9 @@ The interface includes semantic HTML, associated form labels, visible keyboard f
 
 ## Deployment
 
-Deployment URL: Add your published website URL here.
+Deployment URL: Live Demo: https://chethanagaddam.github.io/Responsive-Internship-Board/
 
+GitHub Repository: https://github.com/ChethanaGaddam/Responsive-Internship-Board
 ## Author
 
 Created as part of the EdVyro Full Stack Development internship task.
